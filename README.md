@@ -4,4 +4,4 @@
 2) Score - R2
 3) feature selection
 4)
-5) HDB file - hdbscan with fine tuning hyperparametrs
+5) HDB file - hdbscan with tuning hyperparametrs
